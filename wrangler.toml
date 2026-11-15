@@ -13,3 +13,6 @@ binding = "ASSETS"
 
 [observability.logs]
 enabled = true
+
+[ai]
+binding = "AI"
